@@ -18,6 +18,7 @@
  - DONet: Dual-Octave Network for Fast MR Image Reconstruction (**TNNLS**) [[paper](https://arxiv.org/abs/2105.05980)]
 ### 2020
  - DuDoRNet: Learning a Dual-Domain Recurrent Network for Fast MRI Reconstruction with Deep T1 Prior (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_DuDoRNet_Learning_a_Dual-Domain_Recurrent_Network_for_Fast_MRI_Reconstruction_CVPR_2020_paper.pdf)] [[code](https://github.com/bbbbbbzhou/DuDoRNet)]
+ - GrappaNet: Combining Parallel Imaging With Deep Learning for Multi-Coil MRI Reconstruction  (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sriram_GrappaNet_Combining_Parallel_Imaging_With_Deep_Learning_for_Multi-Coil_MRI_CVPR_2020_paper.pdf)]
  - Deep-Learning-Based Optimization of the Under-Sampling Pattern in MRI
  - Improving Amide Proton Transfer-Weighted MRI Reconstruction Using T2-Weighted Images (**MICCAI**) [[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-59713-9_1.pdf)]
  - End-to-End Variational Networks for Accelerated MRI Reconstruction (**MICCAI**) [[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-59713-9_7.pdf)]
