@@ -36,4 +36,5 @@
  - ...
 
 ## Datasets
- - [[FastMRI dataset](https://fastmri.org/)] [[paper](https://arxiv.org/abs/1811.08839)] [[code](https://github.com/facebookresearch/fastMRI)]
+ - [FastMRI dataset](https://fastmri.org/) [[paper](https://arxiv.org/abs/1811.08839)] [[code](https://github.com/facebookresearch/fastMRI)]
+ - [IXI dataset](http://brain-development.org/ixi-dataset/)
