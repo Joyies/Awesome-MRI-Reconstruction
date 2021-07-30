@@ -10,6 +10,7 @@
  - High-Resolution Pelvic MRI Reconstruction Using a Generative Adversarial Network with Attention and Cyclic Loss [[paper](https://arxiv.org/abs/2107.09989)]
  - Two-Stage Self-Supervised Cycle-Consistency Network for Reconstruction of Thin-Slice MR Images [[paper](https://arxiv.org/abs/2106.15395)]
 ### 2021
+ - Joint Deep Model-Based MR Image and Coil Sensitivity Reconstruction Network (Joint-ICNet) for Fast MRI (**CVPR**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Jun_Joint_Deep_Model-Based_MR_Image_and_Coil_Sensitivity_Reconstruction_Network_CVPR_2021_paper.pdf)]
  - Multi-Contrast MRI Super-Resolution via a Multi-Stage Integration Network (**MICCAI**) [[paper](https://arxiv.org/abs/2105.08949)] [[code](https://github.com/chunmeifeng/MINet)]
  - Task Transformer Network for Joint MRI Reconstruction and Super-Resolution (**MICCAI**) [[paper](https://arxiv.org/abs/2106.06742)] [[code](https://github.com/chunmeifeng/T2Net)]
  - Data augmentation for deep learning based accelerated MRI reconstruction with limited data (**ICML**) [[paper](https://arxiv.org/abs/2106.14947)] [[code](https://github.com/MathFLDS/MRAugment)]
