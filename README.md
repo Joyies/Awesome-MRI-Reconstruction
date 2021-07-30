@@ -18,6 +18,14 @@
  - DONet: Dual-Octave Network for Fast MR Image Reconstruction (**TNNLS**) [[paper](https://arxiv.org/abs/2105.05980)]
 ### 2020
  - DuDoRNet: Learning a Dual-Domain Recurrent Network for Fast MRI Reconstruction with Deep T1 Prior (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_DuDoRNet_Learning_a_Dual-Domain_Recurrent_Network_for_Fast_MRI_Reconstruction_CVPR_2020_paper.pdf)] [[code](https://github.com/bbbbbbzhou/DuDoRNet)]
+ - Deep-Learning-Based Optimization of the Under-Sampling Pattern in MRI
+ - Improving Amide Proton Transfer-Weighted MRI Reconstruction Using T2-Weighted Images (**MICCAI**) [[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-59713-9_1.pdf)]
+ - End-to-End Variational Networks for Accelerated MRI Reconstruction (**MICCAI**) [[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-59713-9_7.pdf)]
+ - MRI Image Reconstruction via Learning Optimization Using Neural ODEs (**MICCAI**) [[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-59713-9_9.pdf)]
+ - Learning a Gradient Guidance for Spatially Isotropic MRI Super-Resolution Reconstruction (**MICCAI**) [[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-59713-9_14.pdf)]
+ - Deep Attentive Wasserstein Generative Adversarial Networks for MRI Reconstruction with Recurrent Context-Awareness (**MICCAI**) [[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-59713-9_17.pdf)]
+ - Model-Driven Deep Attention Network for Ultra-fast Compressive Sensing MRI Guided by Cross-contrast MR Image (**MICCAI**) [[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-59713-9_19.pdf)]
+ - CDF-Net: Cross-Domain Fusion Network for Accelerated MRI Reconstruction  (**MICCAI**) [[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-59713-9_41.pdf)]
 ### 2019
  - ...
 ### 2018
