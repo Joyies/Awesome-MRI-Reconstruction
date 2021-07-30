@@ -24,6 +24,7 @@
 ### 2021
  - Variational multi-task MRI reconstruction: Joint reconstruction, registration and super-resolution (**MedIA**) [[paper](https://doi.org/10.1016/j.media.2020.101941)]
  - Uncertainty Quantification in Deep MRI Reconstruction (**TMI**)[[paper](https://doi.org/10.1109/TMI.2020.3025065)]
+ - Brain Surface Reconstruction from MRI Images Based on Segmentation Networks Applying Signed Distance Maps (**ISBI**) [[paper](https://arxiv.org/abs/2104.04291)]
  - Brain Surface Reconstruction from MRI Images based on Segmentation Networks Applying Signed Distance Maps (**ISBI**) [[paper](https://doi.org/10.1109/ISBI48211.2021.9434070)]
  - Density Compensated Unrolled Networks For Non-Cartesian MRI Reconstruction (**ISBI**) [[paper](https://doi.org/10.1109/ISBI48211.2021.9433912)]
  - Calibrationless MRI Reconstruction With A Plug-In Denoiser (**ISBI**) [[paper](https://doi.org/10.1109/ISBI48211.2021.9433815)]
