@@ -9,7 +9,6 @@
  - Low-Rank and Framelet Based Sparsity Decomposition for Interventional MRI Reconstruction [[paper](https://arxiv.org/abs/2107.11947)]
  - High-Resolution Pelvic MRI Reconstruction Using a Generative Adversarial Network with Attention and Cyclic Loss [[paper](https://arxiv.org/abs/2107.09989)]
  - Two-Stage Self-Supervised Cycle-Consistency Network for Reconstruction of Thin-Slice MR Images [[paper](https://arxiv.org/abs/2106.15395)]
- - Density Compensated Unrolled Networks for Non-Cartesian MRI Reconstruction [[paper](https://arxiv.org/abs/2101.01570)] 
  - Memory-efficient Learning for High-Dimensional MRI Reconstruction [[paper](https://arxiv.org/abs/2103.04003)]
  - Universal Undersampled MRI Reconstruction [[paper](https://arxiv.org/abs/2103.05214)]
  - Joint Calibrationless Reconstruction and Segmentation of Parallel MRI [[paper](https://arxiv.org/abs/2105.09220)]
@@ -24,7 +23,6 @@
 ### 2021
  - Variational multi-task MRI reconstruction: Joint reconstruction, registration and super-resolution (**MedIA**) [[paper](https://doi.org/10.1016/j.media.2020.101941)]
  - Uncertainty Quantification in Deep MRI Reconstruction (**TMI**)[[paper](https://doi.org/10.1109/TMI.2020.3025065)]
- - Brain Surface Reconstruction from MRI Images Based on Segmentation Networks Applying Signed Distance Maps (**ISBI**) [[paper](https://arxiv.org/abs/2104.04291)]
  - Brain Surface Reconstruction from MRI Images based on Segmentation Networks Applying Signed Distance Maps (**ISBI**) [[paper](https://doi.org/10.1109/ISBI48211.2021.9434070)]
  - Density Compensated Unrolled Networks For Non-Cartesian MRI Reconstruction (**ISBI**) [[paper](https://doi.org/10.1109/ISBI48211.2021.9433912)]
  - Calibrationless MRI Reconstruction With A Plug-In Denoiser (**ISBI**) [[paper](https://doi.org/10.1109/ISBI48211.2021.9433815)]
