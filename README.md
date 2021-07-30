@@ -20,6 +20,8 @@
  - Adaptive Gradient Balancing for Undersampled MRI Reconstruction and Image-to-Image Translation [[paper](https://arxiv.org/abs/2104.01889)]
  - Zero-Shot Self-Supervised Learning for MRI Reconstruction [[paper](https://arxiv.org/pdf/2102.07737.pdf)]
  - Regularization-Agnostic Compressed Sensing MRI Reconstruction with Hypernetworks [[paper](https://arxiv.org/pdf/2102.07737.pdf)] [[code](https://github.com/alanqrwang/hyperrecon)]
+ - Unsupervised MRI Reconstruction via Zero-Shot Learned Adversarial Transformers [[paper](https://arxiv.org/pdf/2105.08059.pdf)]
+
 ### 2021
  - Variational multi-task MRI reconstruction: Joint reconstruction, registration and super-resolution (**MedIA**) [[paper](https://doi.org/10.1016/j.media.2020.101941)]
  - Uncertainty Quantification in Deep MRI Reconstruction (**TMI**)[[paper](https://doi.org/10.1109/TMI.2020.3025065)]
