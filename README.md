@@ -21,6 +21,7 @@
  - Unsupervised MRI Reconstruction via Zero-Shot Learned Adversarial Transformers [[paper](https://arxiv.org/pdf/2105.08059.pdf)]
 
 ### 2021
+ - Brain MRI super-resolution using coupled-projection residual network (**Neurocomputing**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231221002502)]
  - Variational multi-task MRI reconstruction: Joint reconstruction, registration and super-resolution (**MedIA**) [[paper](https://doi.org/10.1016/j.media.2020.101941)]
  - Uncertainty Quantification in Deep MRI Reconstruction (**TMI**)[[paper](https://doi.org/10.1109/TMI.2020.3025065)]
  - Brain Surface Reconstruction from MRI Images based on Segmentation Networks Applying Signed Distance Maps (**ISBI**) [[paper](https://doi.org/10.1109/ISBI48211.2021.9434070)]
