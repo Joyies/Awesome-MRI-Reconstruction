@@ -5,6 +5,7 @@
 ### Review
  - Deep learning for fast MR imaging: a review for learning reconstruction from incomplete k-space data [[paper](https://arxiv.org/abs/2012.08931)]
 ### arXiv papers
+ - Multi-Modal MRI Reconstruction with Spatial Alignment Network [[paper](https://arxiv.org/pdf/2108.05603.pdf)] [[code](https://github.com/woxuankai/SpatialAlignmentNetwork)]
  - Accelerated MRI Reconstruction with Separable and Enhanced Low-Rank Hankel Regularization [[paper](https://arxiv.org/abs/2107.11650)]
  - Low-Rank and Framelet Based Sparsity Decomposition for Interventional MRI Reconstruction [[paper](https://arxiv.org/abs/2107.11947)]
  - High-Resolution Pelvic MRI Reconstruction Using a Generative Adversarial Network with Attention and Cyclic Loss [[paper](https://arxiv.org/abs/2107.09989)]
