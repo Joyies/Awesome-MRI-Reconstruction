@@ -5,6 +5,10 @@
 ### Review
  - Deep learning for fast MR imaging: a review for learning reconstruction from incomplete k-space data [[paper](https://arxiv.org/abs/2012.08931)]
 ### arXiv papers
+ - MRI Reconstruction Using Deep Energy-Based Model [[paper](https://arxiv.org/ftp/arxiv/papers/2109/2109.03237.pdf)] [Submited to Magnetic Resonance in Medicine]
+ - High Fidelity Deep Learning-based MRI Reconstruction with Instance-wise Discriminative Feature Matching Loss [[paper](https://arxiv.org/pdf/2108.12460.pdf)] [[code](https://github.com/mikgroup/UFLoss)] [Submited to Magnetic Resonance in Medicine]
+ - Multi-Modal MRI Reconstruction Assisted with Spatial Alignment Network [[paper](https://arxiv.org/pdf/2108.05603.pdf)] [[code](https://github.com/woxuankai/SpatialAlignmentNetwork)]
+ - Deep MRI Reconstruction with Radial Subsampling [[paper](https://arxiv.org/pdf/2108.07619.pdf)] [[code](https://github.com/directgroup/direct)]
  - Multi-Modal MRI Reconstruction with Spatial Alignment Network [[paper](https://arxiv.org/pdf/2108.05603.pdf)] [[code](https://github.com/woxuankai/SpatialAlignmentNetwork)]
  - Accelerated Multi-Modal MR Imaging with Transformers [[paper](https://arxiv.org/pdf/2106.14248.pdf)] [[code](https://github.com/chunmeifeng/MTrans)]
  - Deep MRI Reconstruction with Radial Subsampling [[paper](https://arxiv.org/pdf/2108.07619.pdf)]
