@@ -13,7 +13,6 @@
  - Accelerated Multi-Modal MR Imaging with Transformers [[paper](https://arxiv.org/pdf/2106.14248.pdf)] [[code](https://github.com/chunmeifeng/MTrans)]
  - Accelerated MRI Reconstruction with Separable and Enhanced Low-Rank Hankel Regularization [[paper](https://arxiv.org/abs/2107.11650)]
  - Low-Rank and Framelet Based Sparsity Decomposition for Interventional MRI Reconstruction [[paper](https://arxiv.org/abs/2107.11947)]
- - High-Resolution Pelvic MRI Reconstruction Using a Generative Adversarial Network with Attention and Cyclic Loss [[paper](https://arxiv.org/abs/2107.09989)]
  - Two-Stage Self-Supervised Cycle-Consistency Network for Reconstruction of Thin-Slice MR Images [[paper](https://arxiv.org/abs/2106.15395)]
  - Memory-efficient Learning for High-Dimensional MRI Reconstruction [[paper](https://arxiv.org/abs/2103.04003)]
  - Universal Undersampled MRI Reconstruction [[paper](https://arxiv.org/abs/2103.05214)]
