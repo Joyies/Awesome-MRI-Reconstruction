@@ -19,13 +19,13 @@
  - Joint Calibrationless Reconstruction and Segmentation of Parallel MRI [[paper](https://arxiv.org/abs/2105.09220)]
  - Bayesian Uncertainty Estimation of Learned Variational MRI Reconstruction [[paper](https://arxiv.org/abs/2102.06665)]
  - Deep J-Sense: Accelerated MRI Reconstruction via Unrolled Alternating Optimization [[paper](https://arxiv.org/abs/2103.02087)]
- - Fine-grained MRI Reconstruction using Attentive Selection Generative Adversarial Networks [[paper](https://arxiv.org/abs/2103.07672)]
  - Adaptive Gradient Balancing for Undersampled MRI Reconstruction and Image-to-Image Translation [[paper](https://arxiv.org/abs/2104.01889)]
  - Zero-Shot Self-Supervised Learning for MRI Reconstruction [[paper](https://arxiv.org/pdf/2102.07737.pdf)]
  - Regularization-Agnostic Compressed Sensing MRI Reconstruction with Hypernetworks [[paper](https://arxiv.org/pdf/2102.07737.pdf)] [[code](https://github.com/alanqrwang/hyperrecon)]
  - Unsupervised MRI Reconstruction via Zero-Shot Learned Adversarial Transformers [[paper](https://arxiv.org/pdf/2105.08059.pdf)]
 
 ### 2021
+ - Fine-grained MRI Reconstruction using Attentive Selection Generative Adversarial Networks (**ICASSP**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9414981&casa_token=UtCrghuknp0AAAAA:pxkuPIFgKTfJj6BMDVpjbnxJ_BXo_huSiFeQJEhtcgpiu95MJZY-dlSseNQ-YEtFkHSMtPwzsrM&tag=1)]
  - Brain MRI super-resolution using coupled-projection residual network (**Neurocomputing**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231221002502)]
  - Variational multi-task MRI reconstruction: Joint reconstruction, registration and super-resolution (**MedIA**) [[paper](https://doi.org/10.1016/j.media.2020.101941)]
  - Uncertainty Quantification in Deep MRI Reconstruction (**TMI**)[[paper](https://doi.org/10.1109/TMI.2020.3025065)]
