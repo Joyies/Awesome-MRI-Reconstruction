@@ -11,7 +11,6 @@
  - Deep MRI Reconstruction with Radial Subsampling [[paper](https://arxiv.org/pdf/2108.07619.pdf)] [[code](https://github.com/directgroup/direct)]
  - Multi-Modal MRI Reconstruction with Spatial Alignment Network [[paper](https://arxiv.org/pdf/2108.05603.pdf)] [[code](https://github.com/woxuankai/SpatialAlignmentNetwork)]
  - Accelerated Multi-Modal MR Imaging with Transformers [[paper](https://arxiv.org/pdf/2106.14248.pdf)] [[code](https://github.com/chunmeifeng/MTrans)]
- - Deep MRI Reconstruction with Radial Subsampling [[paper](https://arxiv.org/pdf/2108.07619.pdf)]
  - Accelerated MRI Reconstruction with Separable and Enhanced Low-Rank Hankel Regularization [[paper](https://arxiv.org/abs/2107.11650)]
  - Low-Rank and Framelet Based Sparsity Decomposition for Interventional MRI Reconstruction [[paper](https://arxiv.org/abs/2107.11947)]
  - High-Resolution Pelvic MRI Reconstruction Using a Generative Adversarial Network with Attention and Cyclic Loss [[paper](https://arxiv.org/abs/2107.09989)]
