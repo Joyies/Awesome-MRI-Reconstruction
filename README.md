@@ -15,7 +15,6 @@
  - Low-Rank and Framelet Based Sparsity Decomposition for Interventional MRI Reconstruction [[paper](https://arxiv.org/abs/2107.11947)]
  - Two-Stage Self-Supervised Cycle-Consistency Network for Reconstruction of Thin-Slice MR Images [[paper](https://arxiv.org/abs/2106.15395)]
  - Memory-efficient Learning for High-Dimensional MRI Reconstruction [[paper](https://arxiv.org/abs/2103.04003)]
- - Universal Undersampled MRI Reconstruction [[paper](https://arxiv.org/abs/2103.05214)]
  - Joint Calibrationless Reconstruction and Segmentation of Parallel MRI [[paper](https://arxiv.org/abs/2105.09220)]
  - Bayesian Uncertainty Estimation of Learned Variational MRI Reconstruction [[paper](https://arxiv.org/abs/2102.06665)]
  - Deep J-Sense: Accelerated MRI Reconstruction via Unrolled Alternating Optimization [[paper](https://arxiv.org/abs/2103.02087)]
