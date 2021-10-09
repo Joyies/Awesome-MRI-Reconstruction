@@ -25,6 +25,7 @@
  - Unsupervised MRI Reconstruction via Zero-Shot Learned Adversarial Transformers [[paper](https://arxiv.org/pdf/2105.08059.pdf)]
 
 ### 2021
+ - DAGAN: Deep De-Aliasing Generative Adversarial Networks for Fast Compressed Sensing MRI Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8233175]
  - Fine-grained MRI Reconstruction using Attentive Selection Generative Adversarial Networks (**ICASSP**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9414981&casa_token=UtCrghuknp0AAAAA:pxkuPIFgKTfJj6BMDVpjbnxJ_BXo_huSiFeQJEhtcgpiu95MJZY-dlSseNQ-YEtFkHSMtPwzsrM&tag=1)]
  - Brain MRI super-resolution using coupled-projection residual network (**Neurocomputing**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231221002502)]
  - Variational multi-task MRI reconstruction: Joint reconstruction, registration and super-resolution (**MedIA**) [[paper](https://doi.org/10.1016/j.media.2020.101941)]
