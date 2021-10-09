@@ -32,7 +32,6 @@
  - Density Compensated Unrolled Networks For Non-Cartesian MRI Reconstruction (**ISBI**) [[paper](https://doi.org/10.1109/ISBI48211.2021.9433912)]
  - Calibrationless MRI Reconstruction With A Plug-In Denoiser (**ISBI**) [[paper](https://doi.org/10.1109/ISBI48211.2021.9433815)]
  - Joint Deep Model-Based MR Image and Coil Sensitivity Reconstruction Network (Joint-ICNet) for Fast MRI (**CVPR**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Jun_Joint_Deep_Model-Based_MR_Image_and_Coil_Sensitivity_Reconstruction_Network_CVPR_2021_paper.pdf)]
- - Over-and-Under Complete Convolutional RNN for MRI Reconstruction (**MICCAI**) [[paper](https://arxiv.org/abs/2106.08886)]
  - Multi-Contrast MRI Super-Resolution via a Multi-Stage Integration Network (**MICCAI**) [[paper](https://arxiv.org/abs/2105.08949)] [[code](https://github.com/chunmeifeng/MINet)]
  - Task Transformer Network for Joint MRI Reconstruction and Super-Resolution (**MICCAI**) [[paper](https://arxiv.org/abs/2106.06742)] [[code](https://github.com/chunmeifeng/T2Net)]
  - Over-and-Under Complete Convolutional RNN for MRI Reconstruction (**MICCAI**) [[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-87231-1_2.pdf)]
