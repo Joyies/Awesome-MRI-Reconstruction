@@ -4,6 +4,7 @@
 ## Papers
 ### Review
  - Deep learning for fast MR imaging: a review for learning reconstruction from incomplete k-space data [[paper](https://arxiv.org/abs/2012.08931)]
+ - Deep Magnetic Resonance Image Reconstruction: Inverse Problems Meet Neural Networks [[paper](https://ieeexplore.ieee.org/abstract/document/8962949)]
 ### arXiv papers
  - MRI Reconstruction Using Deep Energy-Based Model [[paper](https://arxiv.org/ftp/arxiv/papers/2109/2109.03237.pdf)] [Submited to Magnetic Resonance in Medicine]
  - High Fidelity Deep Learning-based MRI Reconstruction with Instance-wise Discriminative Feature Matching Loss [[paper](https://arxiv.org/pdf/2108.12460.pdf)] [[code](https://github.com/mikgroup/UFLoss)] [Submited to Magnetic Resonance in Medicine]
