@@ -7,6 +7,9 @@
  - Deep Magnetic Resonance Image Reconstruction: Inverse Problems Meet Neural Networks [[paper](https://ieeexplore.ieee.org/abstract/document/8962949)]
 ### arXiv papers
  - Contrastive Learning for Local and Global Learning MRI Reconstruction [[paper](https://arxiv.org/pdf/2111.15200.pdf)]
+ - Equilibrated Zeroth-Order Unrolled Deep Networks for Accelerated MRI [[paper](https://arxiv.org/pdf/2112.09891.pdf)]
+ - Specificity-Preserving Federated Learning for MR Image Reconstruction [[paper](https://arxiv.org/pdf/2112.05752.pdf)]
+ - Learned Half-Quadratic Splitting Network for Magnetic Resonance Image Reconstruction [[paper](https://arxiv.org/pdf/2112.09760.pdf)]
  - MRI Reconstruction Using Deep Energy-Based Model [[paper](https://arxiv.org/ftp/arxiv/papers/2109/2109.03237.pdf)] [Submited to Magnetic Resonance in Medicine]
  - High Fidelity Deep Learning-based MRI Reconstruction with Instance-wise Discriminative Feature Matching Loss [[paper](https://arxiv.org/pdf/2108.12460.pdf)] [[code](https://github.com/mikgroup/UFLoss)] [Submited to Magnetic Resonance in Medicine]
  - Multi-Modal MRI Reconstruction Assisted with Spatial Alignment Network [[paper](https://arxiv.org/pdf/2108.05603.pdf)] [[code](https://github.com/woxuankai/SpatialAlignmentNetwork)]
