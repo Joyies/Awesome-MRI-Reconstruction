@@ -6,6 +6,8 @@
  - Deep learning for fast MR imaging: a review for learning reconstruction from incomplete k-space data [[paper](https://arxiv.org/abs/2012.08931)]
  - Deep Magnetic Resonance Image Reconstruction: Inverse Problems Meet Neural Networks [[paper](https://ieeexplore.ieee.org/abstract/document/8962949)]
 ### arXiv papers
+ - Federated Learning of Generative Image Priors for MRI Reconstruction [[paper](https://arxiv.org/pdf/2202.04175.pdf)]
+ - Specificity-Preserving Federated Learning for MR Image Reconstruction [[paper](https://arxiv.org/pdf/2112.05752.pdf)]
  - Contrastive Learning for Local and Global Learning MRI Reconstruction [[paper](https://arxiv.org/pdf/2111.15200.pdf)]
  - Equilibrated Zeroth-Order Unrolled Deep Networks for Accelerated MRI [[paper](https://arxiv.org/pdf/2112.09891.pdf)]
  - Specificity-Preserving Federated Learning for MR Image Reconstruction [[paper](https://arxiv.org/pdf/2112.05752.pdf)]
