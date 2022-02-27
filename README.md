@@ -31,6 +31,8 @@
  - Unsupervised MRI Reconstruction via Zero-Shot Learned Adversarial Transformers [[paper](https://arxiv.org/pdf/2105.08059.pdf)]
  - Federated Learning of Generative Image Priors for MRI Reconstruction [[paper](https://arxiv.org/abs/2202.04175)]
 
+### 2022
+ - Pyramid Convolutional RNN for MRI Image Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9718239)]
 
 ### 2021
  - Fine-grained MRI Reconstruction using Attentive Selection Generative Adversarial Networks (**ICASSP**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9414981&casa_token=UtCrghuknp0AAAAA:pxkuPIFgKTfJj6BMDVpjbnxJ_BXo_huSiFeQJEhtcgpiu95MJZY-dlSseNQ-YEtFkHSMtPwzsrM&tag=1)]
