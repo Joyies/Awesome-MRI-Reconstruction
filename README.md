@@ -6,6 +6,7 @@
  - Deep learning for fast MR imaging: a review for learning reconstruction from incomplete k-space data [[paper](https://arxiv.org/abs/2012.08931)]
  - Deep Magnetic Resonance Image Reconstruction: Inverse Problems Meet Neural Networks [[paper](https://ieeexplore.ieee.org/abstract/document/8962949)]
 ### arXiv papers
+ - Federated Learning of Generative Image Priors for MRI Reconstruction [[paper](https://arxiv.org/abs/2202.04175)]
  - Contrastive Learning for Local and Global Learning MRI Reconstruction [[paper](https://arxiv.org/pdf/2111.15200.pdf)]
  - Equilibrated Zeroth-Order Unrolled Deep Networks for Accelerated MRI [[paper](https://arxiv.org/pdf/2112.09891.pdf)]
  - Specificity-Preserving Federated Learning for MR Image Reconstruction [[paper](https://arxiv.org/pdf/2112.05752.pdf)]
@@ -22,7 +23,6 @@
  - Zero-Shot Self-Supervised Learning for MRI Reconstruction [[paper](https://arxiv.org/pdf/2102.07737.pdf)]
  - Regularization-Agnostic Compressed Sensing MRI Reconstruction with Hypernetworks [[paper](https://arxiv.org/pdf/2102.07737.pdf)] [[code](https://github.com/alanqrwang/hyperrecon)]
  - Unsupervised MRI Reconstruction via Zero-Shot Learned Adversarial Transformers [[paper](https://arxiv.org/pdf/2105.08059.pdf)]
- - Federated Learning of Generative Image Priors for MRI Reconstruction [[paper](https://arxiv.org/abs/2202.04175)]
 
 ### 2022
  - Pyramid Convolutional RNN for MRI Image Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9718239)]
