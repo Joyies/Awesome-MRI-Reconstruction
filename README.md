@@ -17,12 +17,7 @@
  - Multi-Modal MRI Reconstruction with Spatial Alignment Network [[paper](https://arxiv.org/pdf/2108.05603.pdf)] [[code](https://github.com/woxuankai/SpatialAlignmentNetwork)]
  - Accelerated Multi-Modal MR Imaging with Transformers [[paper](https://arxiv.org/pdf/2106.14248.pdf)] [[code](https://github.com/chunmeifeng/MTrans)]
  - Accelerated MRI Reconstruction with Separable and Enhanced Low-Rank Hankel Regularization [[paper](https://arxiv.org/abs/2107.11650)]
- - Low-Rank and Framelet Based Sparsity Decomposition for Interventional MRI Reconstruction [[paper](https://arxiv.org/abs/2107.11947)]
- - Two-Stage Self-Supervised Cycle-Consistency Network for Reconstruction of Thin-Slice MR Images [[paper](https://arxiv.org/abs/2106.15395)]
- - Memory-efficient Learning for High-Dimensional MRI Reconstruction [[paper](https://arxiv.org/abs/2103.04003)]
  - Joint Calibrationless Reconstruction and Segmentation of Parallel MRI [[paper](https://arxiv.org/abs/2105.09220)]
- - Bayesian Uncertainty Estimation of Learned Variational MRI Reconstruction [[paper](https://arxiv.org/abs/2102.06665)]
- - Deep J-Sense: Accelerated MRI Reconstruction via Unrolled Alternating Optimization [[paper](https://arxiv.org/abs/2103.02087)]
  - Adaptive Gradient Balancing for Undersampled MRI Reconstruction and Image-to-Image Translation [[paper](https://arxiv.org/abs/2104.01889)]
  - Zero-Shot Self-Supervised Learning for MRI Reconstruction [[paper](https://arxiv.org/pdf/2102.07737.pdf)]
  - Regularization-Agnostic Compressed Sensing MRI Reconstruction with Hypernetworks [[paper](https://arxiv.org/pdf/2102.07737.pdf)] [[code](https://github.com/alanqrwang/hyperrecon)]
@@ -31,6 +26,8 @@
 
 ### 2022
  - Pyramid Convolutional RNN for MRI Image Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9718239)]
+ - Bayesian Uncertainty Estimation of Learned Variational MRI Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9535511)]
+ - Low-Rank and Framelet Based Sparsity Decomposition for Interventional MRI Reconstructionn (**TBE**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9678015)]
 
 ### 2021
  - Fine-grained MRI Reconstruction using Attentive Selection Generative Adversarial Networks (**ICASSP**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9414981&casa_token=UtCrghuknp0AAAAA:pxkuPIFgKTfJj6BMDVpjbnxJ_BXo_huSiFeQJEhtcgpiu95MJZY-dlSseNQ-YEtFkHSMtPwzsrM&tag=1)]
@@ -42,6 +39,7 @@
  - Calibrationless MRI Reconstruction With A Plug-In Denoiser (**ISBI**) [[paper](https://doi.org/10.1109/ISBI48211.2021.9433815)]
  - Joint Deep Model-Based MR Image and Coil Sensitivity Reconstruction Network (Joint-ICNet) for Fast MRI (**CVPR**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Jun_Joint_Deep_Model-Based_MR_Image_and_Coil_Sensitivity_Reconstruction_Network_CVPR_2021_paper.pdf)]
  - Multi-Contrast MRI Super-Resolution via a Multi-Stage Integration Network (**MICCAI**) [[paper](https://arxiv.org/abs/2105.08949)] [[code](https://github.com/chunmeifeng/MINet)]
+ - Two-Stage Self-Supervised Cycle-Consistency Network for Reconstruction of Thin-Slice MR Images (**MICCAI**) [[paper](https://arxiv.org/abs/2106.15395)]
  - Task Transformer Network for Joint MRI Reconstruction and Super-Resolution (**MICCAI**) [[paper](https://arxiv.org/abs/2106.06742)] [[code](https://github.com/chunmeifeng/T2Net)]
  - Over-and-Under Complete Convolutional RNN for MRI Reconstruction (**MICCAI**) [[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-87231-1_2.pdf)]
  - Universal Undersampled MRI Reconstruction (**MICCAI**) [[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-87231-1_21.pdf)]
@@ -60,6 +58,7 @@
  - Deep Geometric Distillation Network for Compressive Sensing MRI (**IEEE-EMBS BHI oral**) [[paper](https://arxiv.org/pdf/2107.04943.pdf)] [[code](https://github.com/fanxiaohong/Deep-Geometric-Distillation-Network-for-CS-MRI)]
  - Dual-Octave Convolution for Accelerated Parallel MR Image Reconstruction (**AAAI**) [[paper](https://arxiv.org/abs/2104.05345) [code](https://github.com/chunmeifeng/Dual-OctConv)]
  - DONet: Dual-Octave Network for Fast MR Image Reconstruction (**TNNLS**) [[paper](https://arxiv.org/abs/2105.05980)]
+ - Adaptive Gradient Balancing for Undersampled MRI Reconstruction and Image-to-Image Translation (**ICCP**) [[paper](https://arxiv.org/abs/2104.01889)]
 ### 2020
  - DuDoRNet: Learning a Dual-Domain Recurrent Network for Fast MRI Reconstruction with Deep T1 Prior (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_DuDoRNet_Learning_a_Dual-Domain_Recurrent_Network_for_Fast_MRI_Reconstruction_CVPR_2020_paper.pdf)] [[code](https://github.com/bbbbbbzhou/DuDoRNet)]
  - GrappaNet: Combining Parallel Imaging With Deep Learning for Multi-Coil MRI Reconstruction  (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sriram_GrappaNet_Combining_Parallel_Imaging_With_Deep_Learning_for_Multi-Coil_MRI_CVPR_2020_paper.pdf)]
