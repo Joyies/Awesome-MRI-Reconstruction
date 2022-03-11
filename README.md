@@ -27,6 +27,8 @@
  - Unsupervised MRI Reconstruction via Zero-Shot Learned Adversarial Transformers [[paper](https://arxiv.org/pdf/2105.08059.pdf)]
 
 ### 2022
+ - Sampling possible reconstructions of undersampled acquisitions in MR imaging with a deep learned prior (**TMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9709768)]
+ - Unsupervised MRI Reconstruction via Zero-Shot Learned Adversarial Transformers (**TMI**) [[paper](https://ieeexplore.ieee.org/document/9695412)]
  - Pyramid Convolutional RNN for MRI Image Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9718239)]
  - Bayesian Uncertainty Estimation of Learned Variational MRI Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9535511)]
  - Low-Rank and Framelet Based Sparsity Decomposition for Interventional MRI Reconstructionn (**TBE**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9678015)]
