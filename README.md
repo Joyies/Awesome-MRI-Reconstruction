@@ -27,6 +27,7 @@
  - Unsupervised MRI Reconstruction via Zero-Shot Learned Adversarial Transformers [[paper](https://arxiv.org/pdf/2105.08059.pdf)]
 
 ### 2022
+ - 2D probabilistic undersampling pattern optimization for MR image reconstruction (**MedIA**) [[paper](https://www.sciencedirect.com/science/article/pii/S1361841521003911)]
  - Sampling possible reconstructions of undersampled acquisitions in MR imaging with a deep learned prior (**TMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9709768)]
  - Unsupervised MRI Reconstruction via Zero-Shot Learned Adversarial Transformers (**TMI**) [[paper](https://ieeexplore.ieee.org/document/9695412)]
  - Pyramid Convolutional RNN for MRI Image Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9718239)]
