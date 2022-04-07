@@ -28,6 +28,9 @@
  - Unsupervised MRI Reconstruction via Zero-Shot Learned Adversarial Transformers [[paper](https://arxiv.org/pdf/2105.08059.pdf)]
 
 ### 2022
+ - Learning Optimal K-space Acquisition and Reconstruction using Physics-Informed Neural Networks (**CVPR**) [[paper](https://arxiv.org/pdf/2204.02480.pdf)]
+ - Transformer-empowered Multi-scale Contextual Matching and Aggregation for Multi-contrast MRI Super-resolution (**CVPR**) [[paper](https://arxiv.org/pdf/2203.13963.pdf)] [[code](https://github.com/XAIMI-Lab/McMRSR)]
+ - Vox2Cortex: Fast Explicit Reconstruction of Cortical Surfaces from 3D MRI Scans with Geometric Deep Neural Networks (**CVPR**) [[paper](https://arxiv.org/pdf/2203.09446.pdf)]
  - 2D probabilistic undersampling pattern optimization for MR image reconstruction (**MedIA**) [[paper](https://www.sciencedirect.com/science/article/pii/S1361841521003911)]
  - Sampling possible reconstructions of undersampled acquisitions in MR imaging with a deep learned prior (**TMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9709768)]
  - Unsupervised MRI Reconstruction via Zero-Shot Learned Adversarial Transformers (**TMI**) [[paper](https://ieeexplore.ieee.org/document/9695412)]
