@@ -28,6 +28,10 @@
  - Unsupervised MRI Reconstruction via Zero-Shot Learned Adversarial Transformers [[paper](https://arxiv.org/pdf/2105.08059.pdf)]
 
 ### 2022
+ - Joint Reconstruction of Vascular Structure and Function Maps in Dynamic Contrast Enhanced MRI Using Vascular Heterogeneity Priors  (**TMI**) [[paper](https://ieeexplore.ieee.org/document/9511446/)]
+ - Spatiotemporal Flexible Sparse Reconstruction for Rapid Dynamic Contrast-Enhanced MRI (**TBE**) [[]paper](https://ieeexplore.ieee.org/document/9464645)]
+ - Robust joint registration of multiple stains and MRI for multimodal 3D histology reconstruction: Application to the Allen human brain atlas (**MedIA**)[[paper](https://linkinghub.elsevier.com/retrieve/pii/S1361841521003108)]
+ - IDPCNN: Iterative denoising and projecting CNN for MRI reconstruction (**J. CAM**) [[paper](https://doi.org/10.1016/j.cam.2021.113973)]
  - Learning Optimal K-space Acquisition and Reconstruction using Physics-Informed Neural Networks (**CVPR**) [[paper](https://arxiv.org/pdf/2204.02480.pdf)]
  - Transformer-empowered Multi-scale Contextual Matching and Aggregation for Multi-contrast MRI Super-resolution (**CVPR**) [[paper](https://arxiv.org/pdf/2203.13963.pdf)] [[code](https://github.com/XAIMI-Lab/McMRSR)]
  - Vox2Cortex: Fast Explicit Reconstruction of Cortical Surfaces from 3D MRI Scans with Geometric Deep Neural Networks (**CVPR**) [[paper](https://arxiv.org/pdf/2203.09446.pdf)]
@@ -37,6 +41,14 @@
  - Pyramid Convolutional RNN for MRI Image Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9718239)]
  - Bayesian Uncertainty Estimation of Learned Variational MRI Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9535511)]
  - Low-Rank and Framelet Based Sparsity Decomposition for Interventional MRI Reconstructionn (**TBE**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9678015)]
+ - A Plug-and-Play Approach To Multiparametric Quantitative MRI: Image Reconstruction Using Pre-Trained Deep Denoisers (**ISBI**) [[paper](https://ieeexplore.ieee.org/document/9761603)]
+ - LONDN-MRI: Adaptive Local Neighborhood-Based Networks for MR Image Reconstruction from Undersampled Data (**ISBI**) [[paper](https://ieeexplore.ieee.org/document/9761587/)]
+ - Leaders: Learnable Deep Radial Subsampling for Mri Reconstruction (**ISBI**) [[paper](https://ieeexplore.ieee.org/document/9761544)]
+ - MPTGAN: A Multimodal Prior-Based Triple-Branch Network for Fast Prostate Mri Reconstruction (**ISBI**) [[paper](https://ieeexplore.ieee.org/document/9761418)]
+ - Dynamic Cardiac MRI Reconstruction Using Combined Tensor Nuclear Norm and Casorati Matrix Nuclear Norm Regularizations (**ISBI**) [[paper](https://ieeexplore.ieee.org/document/9761409)]
+ - Distributed Memory-Efficient Physics-Guided Deep Learning Reconstruction for Large-Scale 3d Non-Cartesian MRI (**ISBI**) [[paper](https://ieeexplore.ieee.org/document/9761485)]
+ - Joint Alignment and Reconstruction of Multislice Dynamic MRI Using Variational Manifold Learning (**ISBI**) [[paper](https://ieeexplore.ieee.org/document/9761631)]
+ - Compressed Sensing MRI Reconstruction with Co-VeGAN: Complex-Valued Generative Adversarial Network (**WACV**) [[paper](https://ieeexplore.ieee.org/document/9706767)]
 
 ### 2021
  - Fine-grained MRI Reconstruction using Attentive Selection Generative Adversarial Networks (**ICASSP**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9414981&casa_token=UtCrghuknp0AAAAA:pxkuPIFgKTfJj6BMDVpjbnxJ_BXo_huSiFeQJEhtcgpiu95MJZY-dlSseNQ-YEtFkHSMtPwzsrM&tag=1)]
